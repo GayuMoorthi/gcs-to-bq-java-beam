@@ -1,0 +1,8 @@
+D:\Programming\gcs-to-bq-java-beam\src\main\java\transforms\ToTableRowTransform.java
+D:\Programming\gcs-to-bq-java-beam\src\main\java\model\ValidRecord.java
+D:\Programming\gcs-to-bq-java-beam\src\main\java\transforms\DeduplicateTransform.java
+D:\Programming\gcs-to-bq-java-beam\src\main\java\options\JsonToBigQueryOptions.java
+D:\Programming\gcs-to-bq-java-beam\src\main\java\transforms\ParseJsonTransform.java
+D:\Programming\gcs-to-bq-java-beam\src\main\java\util\SchemaLoader.java
+D:\Programming\gcs-to-bq-java-beam\src\main\java\com\example\dataflow\JsonToBigQueryPipeline.java
+D:\Programming\gcs-to-bq-java-beam\src\main\java\transforms\NullCheckTransform.java
